@@ -1,0 +1,76 @@
+query,document,rank
+How can computers perform tasks like humans?,document1.txt,1
+How can computers perform tasks like humans?,document6.txt,2
+How can computers perform tasks like humans?,document2.txt,3
+How can computers perform tasks like humans?,document10.txt,4
+How can computers perform tasks like humans?,document5.txt,5
+How do machines learn from information?,document2.txt,1
+How do machines learn from information?,document3.txt,2
+How do machines learn from information?,document1.txt,3
+How do machines learn from information?,document6.txt,4
+How do machines learn from information?,document9.txt,5
+How do neural networks help computers?,document3.txt,1
+How do neural networks help computers?,document2.txt,2
+How do neural networks help computers?,document1.txt,3
+How do neural networks help computers?,document6.txt,4
+How do neural networks help computers?,document8.txt,5
+Which programming language is easy for beginners?,document4.txt,1
+Which programming language is easy for beginners?,document6.txt,2
+Which programming language is easy for beginners?,document9.txt,3
+Which programming language is easy for beginners?,document1.txt,4
+Which programming language is easy for beginners?,document5.txt,5
+How can we store and manage information?,document5.txt,1
+How can we store and manage information?,document10.txt,2
+How can we store and manage information?,document9.txt,3
+How can we store and manage information?,document7.txt,4
+How can we store and manage information?,document1.txt,5
+How do computers understand human language?,document6.txt,1
+How do computers understand human language?,document1.txt,2
+How do computers understand human language?,document2.txt,3
+How do computers understand human language?,document3.txt,4
+How do computers understand human language?,document4.txt,5
+How can files be stored using the internet?,document7.txt,1
+How can files be stored using the internet?,document10.txt,2
+How can files be stored using the internet?,document5.txt,3
+How can files be stored using the internet?,document9.txt,4
+How can files be stored using the internet?,document8.txt,5
+How can we protect computers from hackers?,document8.txt,1
+How can we protect computers from hackers?,document10.txt,2
+How can we protect computers from hackers?,document5.txt,3
+How can we protect computers from hackers?,document1.txt,4
+How can we protect computers from hackers?,document7.txt,5
+How can data help in making decisions?,document9.txt,1
+How can data help in making decisions?,document5.txt,2
+How can data help in making decisions?,document2.txt,3
+How can data help in making decisions?,document1.txt,4
+How can data help in making decisions?,document6.txt,5
+How do smart devices communicate online?,document10.txt,1
+How do smart devices communicate online?,document1.txt,2
+How do smart devices communicate online?,document7.txt,3
+How do smart devices communicate online?,document6.txt,4
+How do smart devices communicate online?,document8.txt,5
+What technology is used in medical diagnosis?,document1.txt,1
+What technology is used in medical diagnosis?,document9.txt,2
+What technology is used in medical diagnosis?,document10.txt,3
+What technology is used in medical diagnosis?,document6.txt,4
+What technology is used in medical diagnosis?,document2.txt,5
+How can computers recognize pictures?,document2.txt,1
+How can computers recognize pictures?,document3.txt,2
+How can computers recognize pictures?,document1.txt,3
+How can computers recognize pictures?,document6.txt,4
+How can computers recognize pictures?,document5.txt,5
+What software manages large amounts of data?,document5.txt,1
+What software manages large amounts of data?,document9.txt,2
+What software manages large amounts of data?,document7.txt,3
+What software manages large amounts of data?,document6.txt,4
+What software manages large amounts of data?,document2.txt,5
+How do voice assistants understand our speech?,document6.txt,1
+How do voice assistants understand our speech?,document3.txt,2
+How do voice assistants understand our speech?,document2.txt,3
+How do voice assistants understand our speech?,document1.txt,4
+How do voice assistants understand our speech?,document4.txt,5
+What technology connects smart home devices?,document10.txt,1
+What technology connects smart home devices?,document1.txt,2
+What technology connects smart home devices?,document8.txt,3
+What technology connects smart home devices?,document3.txt,4
+What technology connects smart home devices?,document6.txt,5

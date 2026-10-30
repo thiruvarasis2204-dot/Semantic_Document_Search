@@ -1,0 +1,16 @@
+query,semantic_documents,keyword_documents
+How can computers perform tasks like humans?,"document1.txt, document6.txt, document2.txt, document10.txt, document5.txt","document1.txt, document2.txt, document3.txt, document6.txt, document8.txt"
+How can computers recognize pictures?,"document2.txt, document3.txt, document1.txt, document6.txt, document5.txt","document1.txt, document2.txt, document3.txt, document6.txt, document8.txt"
+How can data help in making decisions?,"document9.txt, document5.txt, document2.txt, document1.txt, document6.txt","document1.txt, document10.txt, document2.txt, document3.txt, document4.txt, document5.txt, document6.txt, document7.txt, document8.txt, document9.txt"
+How can files be stored using the internet?,"document7.txt, document10.txt, document5.txt, document9.txt, document8.txt","document1.txt, document10.txt, document2.txt, document7.txt, document8.txt, document9.txt"
+How can we protect computers from hackers?,"document8.txt, document10.txt, document5.txt, document1.txt, document7.txt","document1.txt, document2.txt, document3.txt, document4.txt, document6.txt, document7.txt, document8.txt"
+How can we store and manage information?,"document5.txt, document10.txt, document9.txt, document7.txt, document1.txt","document1.txt, document10.txt, document2.txt, document3.txt, document4.txt, document5.txt, document6.txt, document7.txt, document8.txt, document9.txt"
+How do computers understand human language?,"document6.txt, document1.txt, document2.txt, document3.txt, document4.txt","document1.txt, document2.txt, document3.txt, document6.txt, document8.txt"
+How do machines learn from information?,"document2.txt, document3.txt, document1.txt, document6.txt, document9.txt","document2.txt, document3.txt, document4.txt, document7.txt, document8.txt, document9.txt"
+How do neural networks help computers?,"document3.txt, document2.txt, document1.txt, document6.txt, document8.txt","document3.txt, document6.txt, document7.txt, document8.txt"
+How do smart devices communicate online?,"document10.txt, document1.txt, document7.txt, document6.txt, document8.txt",document10.txt
+How do voice assistants understand our speech?,"document6.txt, document3.txt, document2.txt, document1.txt, document4.txt","document3.txt, document6.txt"
+What software manages large amounts of data?,"document5.txt, document9.txt, document7.txt, document6.txt, document2.txt","document10.txt, document2.txt, document3.txt, document5.txt, document6.txt, document7.txt, document8.txt, document9.txt"
+What technology connects smart home devices?,"document10.txt, document1.txt, document8.txt, document3.txt, document6.txt","document1.txt, document10.txt"
+What technology is used in medical diagnosis?,"document1.txt, document9.txt, document10.txt, document6.txt, document2.txt","document1.txt, document10.txt, document2.txt, document3.txt, document4.txt, document5.txt, document6.txt, document7.txt, document8.txt, document9.txt"
+Which programming language is easy for beginners?,"document4.txt, document6.txt, document9.txt, document1.txt, document5.txt","document1.txt, document2.txt, document3.txt, document4.txt, document5.txt, document6.txt, document8.txt, document9.txt"

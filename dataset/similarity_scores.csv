@@ -1,0 +1,76 @@
+query,document,distance
+How can computers perform tasks like humans?,document1.txt,1.1330329179763794
+How can computers perform tasks like humans?,document6.txt,1.3180077075958252
+How can computers perform tasks like humans?,document2.txt,1.3341306447982788
+How can computers perform tasks like humans?,document10.txt,1.503112554550171
+How can computers perform tasks like humans?,document5.txt,1.5179537534713745
+How do machines learn from information?,document2.txt,0.9741769433021545
+How do machines learn from information?,document3.txt,1.3016974925994873
+How do machines learn from information?,document1.txt,1.3077019453048706
+How do machines learn from information?,document6.txt,1.4301345348358154
+How do machines learn from information?,document9.txt,1.503027319908142
+How do neural networks help computers?,document3.txt,0.9350495338439941
+How do neural networks help computers?,document2.txt,1.0470234155654907
+How do neural networks help computers?,document1.txt,1.1535159349441528
+How do neural networks help computers?,document6.txt,1.4032118320465088
+How do neural networks help computers?,document8.txt,1.4207509756088257
+Which programming language is easy for beginners?,document4.txt,0.9939600229263306
+Which programming language is easy for beginners?,document6.txt,1.5656955242156982
+Which programming language is easy for beginners?,document9.txt,1.6596415042877197
+Which programming language is easy for beginners?,document1.txt,1.710985779762268
+Which programming language is easy for beginners?,document5.txt,1.7368909120559692
+How can we store and manage information?,document5.txt,1.168231725692749
+How can we store and manage information?,document10.txt,1.587329387664795
+How can we store and manage information?,document9.txt,1.587522029876709
+How can we store and manage information?,document7.txt,1.6169759035110474
+How can we store and manage information?,document1.txt,1.6681888103485107
+How do computers understand human language?,document6.txt,1.1523261070251465
+How do computers understand human language?,document1.txt,1.406059741973877
+How do computers understand human language?,document2.txt,1.4218885898590088
+How do computers understand human language?,document3.txt,1.5199705362319946
+How do computers understand human language?,document4.txt,1.5553072690963745
+How can files be stored using the internet?,document7.txt,1.3719288110733032
+How can files be stored using the internet?,document10.txt,1.4823275804519653
+How can files be stored using the internet?,document5.txt,1.5098451375961304
+How can files be stored using the internet?,document9.txt,1.63456130027771
+How can files be stored using the internet?,document8.txt,1.6601216793060303
+How can we protect computers from hackers?,document8.txt,1.0495902299880981
+How can we protect computers from hackers?,document10.txt,1.7195366621017456
+How can we protect computers from hackers?,document5.txt,1.7371420860290527
+How can we protect computers from hackers?,document1.txt,1.7551021575927734
+How can we protect computers from hackers?,document7.txt,1.766223669052124
+How can data help in making decisions?,document9.txt,1.0279651880264282
+How can data help in making decisions?,document5.txt,1.467606544494629
+How can data help in making decisions?,document2.txt,1.530805230140686
+How can data help in making decisions?,document1.txt,1.5540976524353027
+How can data help in making decisions?,document6.txt,1.574553370475769
+How do smart devices communicate online?,document10.txt,0.951554000377655
+How do smart devices communicate online?,document1.txt,1.49244225025177
+How do smart devices communicate online?,document7.txt,1.6176269054412842
+How do smart devices communicate online?,document6.txt,1.635594367980957
+How do smart devices communicate online?,document8.txt,1.6463243961334229
+What technology is used in medical diagnosis?,document1.txt,1.4190220832824707
+What technology is used in medical diagnosis?,document9.txt,1.5836471319198608
+What technology is used in medical diagnosis?,document10.txt,1.6031550168991089
+What technology is used in medical diagnosis?,document6.txt,1.6225688457489014
+What technology is used in medical diagnosis?,document2.txt,1.6337313652038574
+How can computers recognize pictures?,document2.txt,1.3426876068115234
+How can computers recognize pictures?,document3.txt,1.4117472171783447
+How can computers recognize pictures?,document1.txt,1.5676393508911133
+How can computers recognize pictures?,document6.txt,1.6519041061401367
+How can computers recognize pictures?,document5.txt,1.657461166381836
+What software manages large amounts of data?,document5.txt,1.059927225112915
+What software manages large amounts of data?,document9.txt,1.2594246864318848
+What software manages large amounts of data?,document7.txt,1.4297785758972168
+What software manages large amounts of data?,document6.txt,1.5265023708343506
+What software manages large amounts of data?,document2.txt,1.5326300859451294
+How do voice assistants understand our speech?,document6.txt,1.3346033096313477
+How do voice assistants understand our speech?,document3.txt,1.5057082176208496
+How do voice assistants understand our speech?,document2.txt,1.6816407442092896
+How do voice assistants understand our speech?,document1.txt,1.694691777229309
+How do voice assistants understand our speech?,document4.txt,1.8770029544830322
+What technology connects smart home devices?,document10.txt,0.7459076642990112
+What technology connects smart home devices?,document1.txt,1.4333319664001465
+What technology connects smart home devices?,document8.txt,1.5951719284057617
+What technology connects smart home devices?,document3.txt,1.6496098041534424
+What technology connects smart home devices?,document6.txt,1.657158613204956
